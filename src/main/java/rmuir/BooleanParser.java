@@ -41,6 +41,7 @@ public final class BooleanParser {
    * @throws NullPointerException if {@code string} is {@code null}.
    */
   public static boolean parseBoolean(String string) throws ParseException {
+    Objects.requireNonNull(string, "string argument must be non-null");
     switch (string) {
       case "true": return true;
       case "false": return false;
