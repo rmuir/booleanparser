@@ -1,7 +1,5 @@
 package rmuir;
 
-import java.text.ParseException;
-
 /*
  * Copyright (c) 2015 Robert Muir. 
  * All rights reserved.
@@ -27,6 +25,8 @@ import java.text.ParseException;
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  */
+
+import java.text.ParseException;
 
 /**
  * Boolean parser that does not suck.
