@@ -4,7 +4,7 @@
   <groupId>com.github.rmuir</groupId>
   <artifactId>booleanparser</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>booleanparser</name>
   <url>http://github.com/rmuir/booleanparser</url>
   <properties>
