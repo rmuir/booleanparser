@@ -33,6 +33,8 @@ import java.text.ParseException;
  */
 public final class BooleanParser {
   
+  private BooleanParser() { /* no shitty instance */ }
+  
   /**
    * Parses a boolean value, the way you would expect.
    * @param string text to parse. must be {@code true} or {@code false}.
